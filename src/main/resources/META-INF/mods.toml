@@ -6,8 +6,9 @@ license="MIT"
 modId="veylith"
 version="1.0.0"
 displayName="The Veylith"
-authors="The Veylith Team"
-description='''A dark-fantasy horror adventure for Minecraft.'''
+authors="Clara Blair"
+description='''The Veylith is a dark-fantasy horror expansion for Minecraft.'''
+displayTest="MATCH_VERSION"
 
 [[dependencies.veylith]]
 modId="forge"
